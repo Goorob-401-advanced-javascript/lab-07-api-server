@@ -4,7 +4,7 @@
 ### Links and Resources-
  [submission PR](https://github.com/Goorob-401-advanced-javascript/lab-07-api-server/pull/1)
 
-- [ci/cd](http://xyz.com) (GitHub Actions)
+- [ci/cd](https://github.com/Goorob-401-advanced-javascript/lab-07-api-server/actions) (GitHub Actions)
 
 #### Tests-
  How do you run tests? `npm run test`
